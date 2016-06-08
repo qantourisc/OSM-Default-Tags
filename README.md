@@ -1,2 +1,2 @@
 # OSM-Default-Tags
-Default tags for matches elements in OpenStreetmap
+An attempt to create a standard registery/contact for default tags that apply to elements.
